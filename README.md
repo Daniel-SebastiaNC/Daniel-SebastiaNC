@@ -1,18 +1,29 @@
-### Hi there 👋
+### 👋 Olá, sou Daniel Sebastian!
 
+Sou um desenvolvedor Fullstack e apaixonado por criar experiências incríveis em aplicativos móveis nativos para Android e iOS. Atualmente, faço parte da equipe da Monstack BMS, uma startup inovadora onde trabalho desde 2022, desde os meus 16 anos.
+
+#### 🚀 Sobre Mim
+
+- 💼 **Atualmente Trabalhando:** Desenvolvedor Mobile na Monstack BMS.
+- 🌐 **Experiência:** Trabalho com desenvolvimento desde os 16 anos, acumulando experiência em projetos desafiadores.
+- 📱 **Especialização:** Desenvolvimento de aplicativos móveis nativos para Android e iOS.
+- 🔧 **Tecnologias:** Proficiente em Python, React Native, C++ e JavaScrit.
+  
+#### 🛠️ Habilidades Técnicas
+
+- Desenvolvimento Fullstack
+- Aplicações móveis nativas (Android e iOS)
+- IOT com ESP32 e Arduinno
 <!--
-**Daniel-SebastiaNC/Daniel-SebastiaNC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 📈 Projetos Destacados
 
-Here are some ideas to get you started:
+1. **Nome do Projeto 1**
+   - Descrição breve do projeto e suas contribuições.
+   - Link para o repositório ou demo, se disponível.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+2. **Nome do Projeto 2**
+   - Descrição breve do projeto e suas contribuições.
+   - Link para o repositório ou demo, se disponível.
 -->
 
 <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/Daniel-SebastiaNC)">
@@ -31,6 +42,7 @@ Here are some ideas to get you started:
 </div>
 
 ##
+#### 📬 Conecte-se Comigo
 
 <div> 
 <!--  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
@@ -40,4 +52,8 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/daniel-sebastian-nunes-cavalcanti-306abb282" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+#### 🌱 Sempre Aprendendo
+
+🚀 Estou constantemente buscando novas oportunidades de aprendizado e aprimoramento.
 
