@@ -7,7 +7,7 @@ Sou um desenvolvedor Fullstack e apaixonado por criar experiências incríveis e
 - 💼 **Atualmente Trabalhando:** Desenvolvedor Mobile na Monstack BMS.
 - 🌐 **Experiência:** Trabalho com desenvolvimento desde os 16 anos, acumulando experiência em projetos desafiadores.
 - 📱 **Especialização:** Desenvolvimento de aplicativos móveis nativos para Android e iOS.
-- 🔧 **Tecnologias:** Proficiente em Python, React Native, C++ e JavaScrit.
+- 🔧 **Tecnologias:** Proficiente em Java.
   
 #### 🛠️ Habilidades Técnicas
 
