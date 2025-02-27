@@ -1,30 +1,30 @@
 ### 👋 Olá, sou Daniel Sebastian!
 
-Sou um desenvolvedor Fullstack e apaixonado por criar experiências incríveis em aplicativos móveis nativos para Android e iOS. Atualmente, faço parte da equipe da Monstack BMS, uma startup inovadora onde trabalho desde 2022, desde os meus 16 anos.
+Olá! Sou um **desenvolvedor Fullstack** apaixonado por tecnologia. 🚀  
+Comecei minha jornada na programação aos **16 anos** e, desde então, venho me aprimorando continuamente.  
 
-#### 🚀 Sobre Mim
+## 🔹 Tecnologias & Especialidades  
 
-- 💼 **Atualmente Trabalhando:** Desenvolvedor Mobile na Monstack BMS.
-- 🌐 **Experiência:** Trabalho com desenvolvimento desde os 16 anos, acumulando experiência em projetos desafiadores.
-- 📱 **Especialização:** Desenvolvimento de aplicativos móveis nativos para Android e iOS.
-- 🔧 **Tecnologias:** Proficiente em Java.
-  
-#### 🛠️ Habilidades Técnicas
+Atualmente, minhas principais especialidades são:  
 
-- Desenvolvimento Fullstack
-- Aplicações móveis nativas (Android e iOS)
-- IOT com ESP32 e Arduinno
-<!--
-#### 📈 Projetos Destacados
+- **Back-end**: Java | Spring Boot  
+- **Front-end**: Angular | HTML5 | CSS3 | JavaScript  
+- **Banco de Dados**: SQL | NoSQL  
+- **Cloud**: AWS  
+- **Boas Práticas**: Clean Code  
 
-1. **Nome do Projeto 1**
-   - Descrição breve do projeto e suas contribuições.
-   - Link para o repositório ou demo, se disponível.
+## 💼 Experiência Profissional  
 
-2. **Nome do Projeto 2**
-   - Descrição breve do projeto e suas contribuições.
-   - Link para o repositório ou demo, se disponível.
--->
+### 📌 Centraliza (CRM) – Suporte Técnico *(11/2024 - 03/2025)*  
+- Atendimento ao cliente com **boa comunicação**  
+- Desenvolvimento de **automações** e criação de **documentação**  
+- Inglês técnico para documentação e integrações externas  
+- Integração de APIs e WebHooks  
+
+### 📌 Monstack – Desenvolvimento de Hardware & Software *(02/2022 - 02/2024)*  
+- Programação em **C++** e **sistemas embarcados**  
+- Desenvolvimento mobile com **Swift** e **React Native**  
+- Desenvolvimento web com **HTML5**, **CSS3** e **JavaScript**  
 
 <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/Daniel-SebastiaNC)">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel-SebastiaNC" />
@@ -46,7 +46,7 @@ Sou um desenvolvedor Fullstack e apaixonado por criar experiências incríveis e
 
 <div> 
 <!--  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
-  <a href="https://www.instagram.com/daniel_sebastianc?igsh=bnBwYm8zZTFidjRr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<!--   <a href="https://www.instagram.com/daniel_sebastianc?igsh=bnBwYm8zZTFidjRr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
 <!-- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
   <a href = "mailto:daniel.sebastian.nc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniel-sebastian-nunes-cavalcanti-306abb282" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
