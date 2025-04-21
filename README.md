@@ -3,9 +3,7 @@
 Olá! Sou um **desenvolvedor Fullstack** apaixonado por tecnologia. 🚀  
 Sou desenvolvedor de software especializado em backend, com experiência em tecnologias como Java, Spring Boot, Docker, SQL, AWS e Git. Minha abordagem combina princípios sólidos de programação orientada a objetos (POO) com o uso de ferramentas modernas para garantir a construção de sistemas escaláveis, eficientes e de alto desempenho.
 
-<a href="https://portifolio-daniel-sebastian.vercel.app/" target="_blank">
-  ↗️Confira meu Protifólio
-</a>
+[↗️Confira meu Protifólio](https://portifolio-daniel-sebastian.vercel.app/)
 
 ## 🔹 Tecnologias & Especialidades  
 
@@ -52,12 +50,10 @@ Atualmente, minhas principais especialidades são:
 #### 📬 Conecte-se Comigo
 
 <div> 
-<!--  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
-<!--   <a href="https://www.instagram.com/daniel_sebastianc?igsh=bnBwYm8zZTFidjRr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
-<!-- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
+  <a href="https://portifolio-daniel-sebastian.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-000?style=for-the-badge&logo=about-dot-me&logoColor=white" target="_blank"></a>
   <a href = "mailto:daniel.sebastian.nc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniel-sebastian-nc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://hub.docker.com/u/d4nielsebstian" target="_blank"><img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" target="_blank"></a>
 </div>
 
 #### 🌱 Sempre Aprendendo
