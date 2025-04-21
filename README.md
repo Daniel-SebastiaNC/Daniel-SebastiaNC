@@ -12,7 +12,7 @@ Sou desenvolvedor de software especializado em backend, com experiência em tecn
 Atualmente, minhas principais especialidades são:  
 
 - **Back-end**: Java | Spring Boot  
-- **Front-end**: Angular | HTML5 | CSS3 | JavaScript  
+- **Front-end**: Angular | HTML5 | CSS3 | TypeScript  
 - **Banco de Dados**: SQL | NoSQL  
 - **Cloud**: AWS  
 - **Boas Práticas**: Clean Code  
