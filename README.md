@@ -14,8 +14,8 @@ Atualmente, minhas principais especialidades são:
 - **Back-end**: Java | Spring Boot  
 - **Front-end**: Angular | HTML5 | CSS3 | TypeScript  
 - **Banco de Dados**: SQL | NoSQL  
-- **Cloud**: AWS  
-- **Boas Práticas**: Clean Code  
+- **Cloud**: AWS EC2
+- **Boas Práticas**: Clean Code | Clean Architecture 
 
 ## 💼 Experiência Profissional  
 
