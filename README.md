@@ -1,7 +1,11 @@
 ### 👋 Olá, sou Daniel Sebastian!
 
 Olá! Sou um **desenvolvedor Fullstack** apaixonado por tecnologia. 🚀  
-Comecei minha jornada na programação aos **16 anos** e, desde então, venho me aprimorando continuamente.  
+Sou desenvolvedor de software especializado em backend, com experiência em tecnologias como Java, Spring Boot, Docker, SQL, AWS e Git. Minha abordagem combina princípios sólidos de programação orientada a objetos (POO) com o uso de ferramentas modernas para garantir a construção de sistemas escaláveis, eficientes e de alto desempenho.
+
+<a href="https://portifolio-daniel-sebastian.vercel.app/" target="_blank">
+  ↗️Confira meu Protifólio
+</a>
 
 ## 🔹 Tecnologias & Especialidades  
 
